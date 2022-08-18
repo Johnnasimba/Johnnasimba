@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any web project using technologies such as PHP, Laravel, React, Angularjs, Vue, Nodejs, Python, HTML, and CSS
 - 💞️ If you happen to have a possible job offer, feel free to contact me.
 - 📫 How to reach me ...
-    https://www.john-nasimba.com/
+    nasimba4john@gmail.com
 
 <!---
 Johnnasimba/Johnnasimba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
