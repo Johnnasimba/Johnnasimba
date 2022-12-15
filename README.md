@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Johnnasimba
 - 👀 I’m a full stack web developer based in Cape Town, South Africa.
 - 🌱 I’m building different full stack web applications for different clients.
-- 💞️ I’m looking to collaborate on any web project using technologies such as PHP, Laravel, React, Angularjs, Vue, Nodejs, Python, HTML, and CSS
+- 💞️ I’m looking to collaborate on any web project using technologies such as PHP, Laravel, React, Angular, Vue, Nodejs, Python, HTML, and CSS
 - 💞️ If you happen to have a possible job offer, feel free to contact me.
 - 📫 How to reach me ...
     nasimba4john@gmail.com
